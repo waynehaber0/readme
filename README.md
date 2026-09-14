@@ -8,7 +8,7 @@ It's long. That's on purpose. I'd rather you know why I do things than just what
 
 I'm here to help the people on my teams do the best work of their careers, and to ship things that matter to our customers. Those two goals are the same goal. When I'm deciding what to spend time on, I ask whether it helps someone on my team grow or helps a customer, ideally both.
 
-Customer outcomes are the scoreboard. Not story points, not velocity, not how elegant the architecture is. If we can't connect the work to something a customer feels, I'll ask why we're doing it.
+Customer outcomes are the scoreboard. Not story points, not velocity, not how elegant the architecture is. If we can't connect the work to something a customer feels and/or what drives revenue, I'll ask why we're doing it.
 
 We will be ambitious. Not reckless, but aiming at things that would matter if we pulled them off. I'd like us to be one of the teams doing big things rather than later reading about someone else doing it. Big goals are also more fun. Nobody remembers the quarter they hit their story point target.
 
@@ -38,7 +38,7 @@ Patrick Lencioni wrote a book called The Five Dysfunctions of a Team. They stack
 1. **Avoidance of accountability.** Without commitment, nobody feels able to call out a teammate who isn't delivering.
 1. **Inattention to results.** Without accountability, people optimize for their own status or their own area instead of the team's outcome.
 
-Most of what follows is, one way or another, about not letting these take hold. Trust comes from being open about mistakes and giving people room to own things. Healthy conflict comes from arguing openly and then committing. Accountability comes from writing promises down with a name and a date. Results come from measuring the things customers feel.
+Most of what follows is, one way or another, about not letting these take hold. Trust comes from being open about mistakes and giving people room to own things. Healthy conflict comes from arguing openly and then committing. Accountability comes from writing promises down with a name and a date. Results come from measuring the things customers feel and from things that drive revenue.
 
 ## Collaboration is not consensus
 
