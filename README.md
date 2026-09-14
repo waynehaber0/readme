@@ -54,7 +54,7 @@ Most of what follows is, one way or another, about not letting these take hold. 
 
 ## Ownership
 
-**Every piece of work has one name on it, the DRI.** The DRI is the **Directly Responsible Individual* (also sometimes knows as the OAK).  Not a committee, not "the team," one person who is directly responsible for it landing. That person doesn't have to do all the work, but they own the outcome, make the calls, pull in who they need, and are the one I go to with questions. If you look at something and can't tell who owns it, that's a bug. 
+**Every piece of work has one name on it, the DRI.** The DRI is the **Directly Responsible Individual** (also sometimes knows as the OAK).  Not a committee, not "the team," one person who is directly responsible for it landing. That person doesn't have to do all the work, but they own the outcome, make the calls, pull in who they need, and are the one I go to with questions. If you look at something and can't tell who owns it, that's a bug. 
 
 **When you own something, you really own it.** You decide how it gets done. You set the plan. You tell the rest of us what you need. I'm not going to hover, and I'm not going to second-guess reasonable decisions after the fact. In exchange, I expect you to carry it: keep people informed, raise problems early, and see it through. Ownership without follow-through is just a name in a spreadsheet.
 
@@ -80,7 +80,7 @@ This isn't bureaucracy. It's how a team of ten stays in sync without ten meeting
 
 ## Speed
 
-*MVC** I'd rather ship something small this week than something complete next quarter. The small thing teaches us something real. The big thing is a guess that gets more expensive the longer it goes unshipped.
+**MVC** I'd rather ship something small this week than something complete next quarter. The small thing teaches us something real. The big thing is a guess that gets more expensive the longer it goes unshipped.
 
 So: find the smallest version a customer or teammate can react to, get it out, learn, repeat. A design that's 60% right and in front of users beats one that's 95% right in a doc. If a piece of work has been in progress for more than a couple of weeks without anything landing, that's a signal to cut scope, not to work harder. The minimum viable version is the goal, not a compromise.
 
