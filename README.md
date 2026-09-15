@@ -70,9 +70,21 @@ Most of what follows is, one way or another, about not letting these take hold. 
 
 **Every piece of work has one name on it, the DRI.** The DRI is the **Directly Responsible Individual** (also sometimes knows as the OAK).  Not a committee, not "the team," one person who is directly responsible for it landing. That person doesn't have to do all the work, but they own the outcome, make the calls, pull in who they need, and are the one I go to with questions. If you look at something and can't tell who owns it, that's a bug. 
 
+
 **When you own something, you really own it.** You decide how it gets done. You set the plan. You tell the rest of us what you need. I'm not going to hover, and I'm not going to second-guess reasonable decisions after the fact. In exchange, I expect you to carry it: keep people informed, raise problems early, and see it through. Ownership without follow-through is just a name in a spreadsheet.
 
 This goes both ways. If I've taken on something that should be yours, tell me and take it. If you've been handed something you don't think you can own well, say so before it becomes a problem, not after.
+
+## RACI
+
+| Role | Description |
+| --- | --- | 
+| Responsible | Those who do the work |
+| Accountable | The one person (DRI) who is accountable for the work |
+| Consulted | Those whom you ask for feedback on the work |
+| Informed | Those who are informed about what you are doing and the progress on it |
+
+Explicitly stating who has which role on major initiatives vastly improves agency, accountability, transparency, and efficiency.
 
 ## Write it down
 
@@ -107,6 +119,28 @@ So: find the smallest version a customer or teammate can react to, get it out, l
 **Embrace change.** Priorities will shift. Requirements will turn out to be wrong. The tool we picked will get replaced. This is what it looks like to work on something that matters in a field that's moving fast, not a sign that something went wrong. The teams that win are the ones that treat a change of direction as new information rather than a betrayal.
 
 **Process** The same goes for process. If something about how we work is bad, change it a little this week rather than designing the perfect system. We can change it again next week.
+
+## Standups 
+
+1. Everyone has cameras on whenever possible
+2. No status updates in the meeting! - That is for the team channel where everyone posts once a day what they did since the last meeting, what they are planning to do before the next meeting, if they are stuck/need help, and any kudos for others
+3. Agenda is: Stuck/need help, kudos for others, open parking lot discussion
+
+## Meetings with more than two people
+
+### Meeting attendance
+
+1. Meetings start on time.  If someone is not there, you don't hold the meeting for them to join.
+1. Record/transcribe all meetings so that what was discussed is recorded and known to those who attended the meeting and those who didn't.
+1. If the meeting doesn't have an agenda, decline it.
+1. If you don't know why you were invited, decline it and tell the organizer why.
+
+### Calling a meeting
+
+1. If you don't have a documented agenda, figure that out before scheduling a meeting
+1. Before scheduling a meeting, ask yourself if you can accomplish the same objectives via an instant message or email
+1. Having a meeting, especially a recurring one to check status on open tasks, is not a good reason for a meeting.  It is a symptom of a bigger problem.  Figure that out before you call the meeting.
+1. Invite the minimum number of people necessary (but not less than that) and pay close attention to who you make optional and who you make required
 
 ## Don't waste it
 
