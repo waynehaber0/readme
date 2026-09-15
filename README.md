@@ -4,6 +4,20 @@ This is a guide to how I work and what I expect, written so you don't have to fi
 
 It's long. That's on purpose. I'd rather you know why I do things than just what I do, so most sections explain the reasoning. Skim the headings, read the parts that matter to you, and come back to the rest if/when it's relevant.
 
+## TL;DR
+
+How I work:
+
+* Customer outcomes and revenue are the scoreboard, and teams must aim for things big enough to matter.
+* I assume good intent, give praise in public and hard feedback in private, and treat every incident as a problem with the system rather than a person.
+* Every piece of work has one owner with real agency, every commitment has a name and a date, and everything worth knowing is written down somewhere findable, in one place, in the open.
+* We argue hard before a decision and commit after it; collaboration isn't consensus.
+* We ship small, fast, and behind feature flags, roll back automatically, and never respond to a production regression by shipping less often.
+* We delete before we optimize and question every constraint that can't say what it protects.
+* If it isn't measured, it doesn't exist, and if the number wouldn't change what anyone does, we don't measure it.
+* I ask a lot of questions, I can be blunt and I'd rather hear bad news early and awkwardly than late and polished.
+
+
 ## What I care about
 
 I'm here to help the people on my teams do the best work of their careers, and to ship things that matter to our customers. Those two goals are the same goal. When I'm deciding what to spend time on, I ask whether it helps someone on my team grow or helps a customer, ideally both.
