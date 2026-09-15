@@ -132,8 +132,8 @@ So: find the smallest version a customer or teammate can react to, get it out, l
 
 1. Meetings start on time.  If someone is not there, you don't hold the meeting for them to join.
 1. Record/transcribe all meetings so that what was discussed is recorded and known to those who attended the meeting and those who didn't.
-1. If the meeting doesn't have an agenda, decline it.
-1. If you don't know why you were invited, decline it and tell the organizer why.
+1. If the meeting doesn't have an agenda, request one before accepting.
+1. If you don't know why you were invited, ask the organizer before accepting.
 
 ### Calling a meeting
 
