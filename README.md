@@ -58,7 +58,7 @@ Most of what follows is, one way or another, about not letting these take hold. 
 
 **We work together, and we argue.** Those aren't in tension. What I don't want is decisions by exhaustion, where we keep talking until everyone agrees or gives up. That's slow, and it produces mushy decisions that nobody owns nor is actually committed to.
 
-**Everyone with something to contribute is heard.** The model is: everyone with something to contribute gets heard, the person responsible (the DRI) decides, and everyone commits. You can disagree loudly before the decision. After it, everyone rows the same direction, including the people who lost the argument. If new evidence shows up, bring it, and we'll reopen. Relitigating without new evidence is how teams stall.
+**Everyone with something to contribute is heard.** The model is: everyone with something to contribute gets heard, the person responsible decides, and everyone commits. You can disagree loudly before the decision. After it, everyone rows the same direction, including the people who lost the argument. If new evidence shows up, bring it, and we'll reopen. Relitigating without new evidence is how teams stall.
 
 **Push decisions down.** The person closest to the problem usually has the best information, so my default is to let them decide and set guardrails rather than make the call myself. If you're waiting on me for something you could decide on your own, you probably don't need to wait.
 
