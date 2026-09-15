@@ -181,7 +181,7 @@ I can come across as blunt. My intent is care, and I'm working on the delivery. 
 
 **Vagueness.** No owner, no date, no metric. 
 
-**Meetings that should have been a message.**  Focus time is valuable, and too meetings kill it.
+**Meetings that should have been a message.**  Focus time is extremely valuable, and too many meetings kill it.
 
 **Information that lives in one head.** If you're the only one who knows how something works, you're not indispensable; you're a risk. Write it down.
 
